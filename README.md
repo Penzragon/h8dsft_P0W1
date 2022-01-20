@@ -1,7 +1,5 @@
 # Hacktiv8 Phase 0: Graded Challenge 1
 
----
-
 Graded Challenge ini dibuat guna mengevaluasi pembelajaran pada Hacktiv8 Data Science Fulltime Program khususnya pada konsep Basic Python, Numpy, serta Data Preparation with Pandas.
 
 ---
@@ -37,5 +35,5 @@ Kolom pada dataset ini adalah:
 Tujuan dalam project ini adalah untuk mencari:
 
 - Pokemon dengan tipe apa yang paling banyak menjadi pokemon legendary?
-- Berapa perbedaan total stat antara pokemon legendary dengan pokemon normal?
 - Pokemon apa yang memiliki total stat paling tinggi?
+- Berapa perbedaan total stat antara pokemon legendary dengan pokemon normal?
