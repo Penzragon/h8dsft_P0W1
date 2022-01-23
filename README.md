@@ -10,7 +10,7 @@ By [Rifky Aliffa](https://github.com/Penzragon)
 
 ## Dataset
 
-Dataset yang digunakan dalam project ini adalah dataset **_Pokemon_**. Dataset ini berisi 800 pokemon dengan 13 kolom yang diantaranya adalah id, name, type 1, type 2, total stat, hp, attack, defense, special attack, special defense, speed, generation, dan rarity. Dataset dapat dilihat di [Kaggle](https://www.kaggle.com/abcsds/pokemon).
+Dataset yang digunakan dalam project ini adalah dataset **_Pokemon_**. Dataset ini berisi 800 pokemon dengan 13 kolom yang diantaranya adalah id, name, type 1, type 2, total stats, hp, attack, defense, special attack, special defense, speed, generation, dan rarity. Dataset dapat dilihat di [Kaggle](https://www.kaggle.com/abcsds/pokemon).
 
 Kolom pada dataset ini adalah:
 
@@ -35,4 +35,4 @@ Kolom pada dataset ini adalah:
 Tujuan dalam project ini adalah untuk mencari:
 
 - Pokemon dengan tipe apa yang paling banyak menjadi pokemon legendary?
-- Berapa perbedaan total stat antara pokemon legendary dengan pokemon normal?
+- Berapa perbedaan total stats antara pokemon legendary dengan pokemon normal?
